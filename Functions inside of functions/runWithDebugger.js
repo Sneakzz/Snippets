@@ -1,7 +1,3 @@
-function setup() {
-  
-}
-
 // example function for debuggin purposes
 function logTenNumbers() {
   for (var i = 0; i < 10; i++) {
@@ -14,6 +10,3 @@ function runWithDebugger(myFunction) {
   debugger;
   myFunction();
 }
-
-// ensures the page is loaded before javascript
-window.addEventListener('load', setup);
