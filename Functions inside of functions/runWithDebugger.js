@@ -1,6 +1,5 @@
 function setup() {
-  console.log('page loaded');
-  //logTenNumbers();
+  
 }
 
 // example function for debuggin purposes
